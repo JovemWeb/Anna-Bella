@@ -1,0 +1,94 @@
+*{
+    width: auto;
+    height: auto;
+
+}
+
+#site{
+    width: 1200px;
+    height: auto;
+    
+}
+
+body{
+    background: #d2d2c1 url(fundo.jpg); 
+}
+
+.capa{
+    width: 900px;
+    height: 380px;
+    
+}
+
+.opcao{
+    background-color: #c5c5b2;
+    width: 75%;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    left: 3px;
+    font-size: 20px;
+    color: rgb(4, 4, 77);
+    padding-left: 8px;
+
+}   
+
+span{
+    color: (4, 4, 77);
+    position: relative;
+    top: 13px;
+    left: 2px;
+}
+
+a:link, a:visited{
+    color: rgb(4, 4, 77);
+}
+
+a:hover{
+    color: white;
+}
+
+.texto{
+    width: 890px;
+    height: auto;
+    background-color: #e8e8d9;
+    padding-left: 10px;
+    border-top: #e8e8d9 5px solid;
+    border-bottom: #e8e8d9 20px solid;
+}
+
+h1{
+    padding-left: 10px;
+}
+
+p{
+    width: 75%;
+    font-size: 20px;
+}
+
+.foto{
+    border: #c5c5b2 solid 15px;
+    width: 640px;
+    height: 425px;
+}
+
+#direitos{
+    width: 75%;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+
+.iconi{
+    width: 25px;
+    position: relative;
+    top: 5px;
+
+}
